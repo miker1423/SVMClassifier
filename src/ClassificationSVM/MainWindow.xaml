@@ -19,6 +19,7 @@
             <Button Margin="0,10,0,10" Click="OpenDirectory">Open directory</Button>
             <Button Margin="0,10,0,10" Click="Learn_Clicked">Train</Button>
             <Button Margin="0,10,0,10" Click="Decide">Test</Button>
+            <Image Stretch="None" x:Name="ProccesdImage" />
         </StackPanel>
     </Grid>
 </Window>
